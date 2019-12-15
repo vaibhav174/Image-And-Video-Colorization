@@ -11,4 +11,4 @@
    1) Firstly you need the CNN model that I trained during my time of building this project.
    2) Create a folder named model (CASE SENSITIVE) and store the downloaded model in the folder.
    3) Create another folder named colorized_videos  (CASE SENSITIVE) to store the final colorized video.
-   now run the ipnb files ceel by cell if you have all the required libraries installed that project should work fine.
+   now run the ipnb files cell by cell if you have all the required libraries installed than project should work fine.
